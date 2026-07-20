@@ -1,0 +1,14 @@
+# C++ source files
+*.cpp
+
+# Python source files
+*.py
+
+# C++ compiled files
+*.exe
+*.out
+*.o
+*.obj
+
+# Java compiled files
+*.class
